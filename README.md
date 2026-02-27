@@ -1,8 +1,8 @@
-# TT Labs UTheme Analyzer
+# TT Labs Utterance Theme Analyzer
 
-**Utterance Theme Analyzer for PMs** — upload a CSV of customer utterances, get axial-coded thematic analysis with pain points, cross-topic patterns, and actionable insights in seconds.
+Upload a CSV of customer utterances, get axial-coded thematic analysis with pain points, cross-topic patterns, and actionable insights in seconds.
 
-Built for Product Managers who don't want to wait for analyst cycles to understand what their AI agents' users are saying.
+Built for Product Managers who don't want to wait for analyst cycles to understand what their AI agents' users are saying/asking.
 
 ## What it does
 
