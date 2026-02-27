@@ -1,0 +1,31 @@
+utterance,topic_id
+"What does APR mean on my credit card statement?",credit_cards
+"I don't understand why my interest rate changed",credit_cards
+"Can you explain the difference between fixed and variable rates?",credit_cards
+"The explanation about balance transfers was really clear, thanks",credit_cards
+"I'm confused about what happens if I only pay the minimum",credit_cards
+"Why am I being charged a fee when I pay on time?",credit_cards
+"How does compound interest work on savings?",savings
+"What's the difference between APY and interest rate?",savings
+"I don't understand why my savings account earns so little",savings
+"The explanation about FDIC insurance was very helpful",savings
+"Can you break down how a CD ladder works?",savings
+"I'm confused about early withdrawal penalties",savings
+"What does it mean when a stock is overvalued?",investing
+"I don't understand P/E ratios at all",investing
+"Can you explain dollar cost averaging more simply?",investing
+"The diversification explanation made a lot of sense",investing
+"Why do bond prices go down when interest rates go up?",investing
+"I'm lost on the difference between ETFs and mutual funds",investing
+"What exactly is escrow and why do I need it?",mortgages
+"I don't understand the amortization schedule you showed me",mortgages
+"Can you explain PMI in simpler terms?",mortgages
+"The refinancing explanation was great and easy to follow",mortgages
+"I'm confused about points — should I buy them or not?",mortgages
+"Why does my monthly payment include so many different things?",mortgages
+"What's the real difference between a 401k and IRA?",retirement
+"I don't understand Roth conversions",retirement
+"Can you explain required minimum distributions?",retirement
+"The explanation about employer matching was super clear",retirement
+"I'm confused about vesting schedules",retirement
+"How do I know if I'm saving enough for retirement?",retirement
